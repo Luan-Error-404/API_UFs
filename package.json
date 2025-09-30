@@ -1,0 +1,24 @@
+{
+  "name": "apiuf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luan-Error-404/API_UFs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Luan-Error-404/API_UFs/issues"
+  },
+  "homepage": "https://github.com/Luan-Error-404/API_UFs#readme",
+  "description": ""
+}
